@@ -29,18 +29,20 @@
   - 
 
 
-### Étape 4 : Composer en Patterns
 
-
-
-### Étape 5 : Évaluer les Trade-offs
+### Étape 4 : Évaluer les Trade-offs (compromis) et les Risques
 
 **Méthode ATAM** (Architecture Tradeoff Analysis Method) :
 
-* Identifier les trade-offs et Documenter les risques
+* Identifier les trade-offs et Documenter les risques, et les attéanuations possibles.
+
+
+### Étape 5 : Validation des Scénarios de Qualité
+
+* tests de performance, de sécurité, de fiabilité, etc.
 
 ### Étape 6 : Documenter les Décisions (ADR)
 
 
-### Étape 7 : Implémenter et Valider
+
 
